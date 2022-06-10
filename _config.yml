@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
+title: OPEN-IT Portfolio
 email: your-email@domain.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "A collection of applications created by the OPEN-IT team"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -25,10 +25,12 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
+  primary: C82C00 #C82C00
   primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  secondary: 10367A #FD6E8A
+  secondary-dark: E8E8E8 #A2122F
+  # secondary-light: F7F7F7 #
+  secondary-light: C82C00 #F7F7F7
 
 # Footer settings
 footer:

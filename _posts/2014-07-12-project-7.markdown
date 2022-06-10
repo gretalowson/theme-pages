@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 7
+date: 2014-07-13
+img: SiteRenewals.png
+img2: SiteRenewalsImg.png
+alt: image-alt
+team: Sales & Servicing
+app: Site Renewals
+app-link: "https://apps.prd.openit.aws.edfcloud.io/site-renewals/index.html"
+github: Repository
+github-link: "https://github.com/edfenergy/ind-openit-site-renewals-ui"
+title: Site Renewals
+description: "To Do"
+---
