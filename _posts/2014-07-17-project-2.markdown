@@ -7,7 +7,7 @@ img2: ShapeToolImg.png
 alt: image-alt
 team: Central and Bespoke Pricing
 app: Forecasting Tool
-app-link: "https://apps.prd.openit.aws.edfcloud.io/forecasting/index.html"
+app-link: "https://apps.prd.openit.aws.edfcloud.io/forecasting/index.html?tool=shape-tool"
 github: Repository
 github-link: "https://github.com/edfenergy/ind-openit-shape-service"
 title: Forecasting Shape Tool

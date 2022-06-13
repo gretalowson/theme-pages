@@ -2,7 +2,7 @@
 title: OPEN-IT Portfolio
 email: your-email@domain.com
 url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "A collection of applications created by the OPEN-IT team."
 keywords: "your keywords, separated by commas"
 skills: "A collection of applications created by the OPEN-IT team"
 meta_author: LastName FirstName
@@ -54,11 +54,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: EDF Energy
+  - line: Gadeon House, Exeter
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Anything to add here? Could remove.'
 
 # Build settings
 markdown: kramdown
